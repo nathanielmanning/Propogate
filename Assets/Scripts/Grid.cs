@@ -2,6 +2,11 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+/**
+ * Represents a grid of triangular cells
+ * 
+ * Author -- Evan S.
+ */
 public class Grid : MonoBehaviour {
 
 	// Width of the grid. Should generally be 2x the height of the grid

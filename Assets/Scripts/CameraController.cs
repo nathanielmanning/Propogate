@@ -2,6 +2,10 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+/**
+ * Centers the camera on the grid
+ * Author -- Evan S.
+ */
 public class CameraController : MonoBehaviour {
 
 	// Use this for initialization

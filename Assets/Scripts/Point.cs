@@ -1,4 +1,8 @@
-﻿struct Point
+﻿/**
+ * Just a point in space (like a vector2, but with ints)
+ * Author -- Evan S.
+ */
+struct Point
 {
 	public int x;
 	public int y;

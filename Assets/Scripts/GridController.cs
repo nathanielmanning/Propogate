@@ -4,6 +4,8 @@ using UnityEngine;
 
 /**
  * Manipulates the grid of triangles with user input.
+ * 
+ * Author -- Evan S.
  */
 public class GridController : MonoBehaviour {
 
